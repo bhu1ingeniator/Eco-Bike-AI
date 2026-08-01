@@ -1,16 +1,92 @@
-# React + Vite
+# 🚲 EcoBike AI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An AI-powered web application that helps users compare bike emissions, analyze sustainability metrics, and make eco-friendly transportation decisions.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
 
-## React Compiler
+- 🚲 Compare bikes from multiple brands
+- 🌱 View carbon emission data
+- 📊 Eco Score calculation
+- 🤖 AI-powered sustainability insights
+- 🎨 Modern responsive UI
+- ⚡ Fast React + Vite frontend
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Frontend
+- React.js
+- Vite
+- Tailwind CSS
+- React Router
+- React Icons
+
+### Backend
+- Node.js
+- Express.js
+
+### Tools
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 📸 Screenshots
+
+### Landing Page
+
+(Add screenshot after deployment)
+
+### Bike Search
+
+(Add screenshot after deployment)
+
+---
+
+## 🚀 Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/bhu1ingeniator/Eco-Bike-AI.git
+```
+
+Frontend
+
+```bash
+cd client
+npm install
+npm run dev
+```
+
+Backend
+
+```bash
+cd server
+npm install
+npm start
+```
+
+---
+
+## 📈 Future Improvements
+
+- AI recommendation engine
+- Real-time emission prediction
+- Carbon footprint calculator
+- Bike comparison charts
+- User authentication
+- Database integration
+
+---
+
+## 👨‍💻 Author
+
+**Bhuvi**
+
+GitHub:
+https://github.com/bhu1ingeniator
