@@ -1,4 +1,4 @@
-# 🚲 EcoBike AI
+<img width="1366" height="768" alt="Screenshot (248)" src="https://github.com/user-attachments/assets/4fb5919d-45cb-4115-95a9-7e07e8e06f2d" /># 🚲 EcoBike AI
 
 > AI-powered sustainable bike recommendation platform built using React, Tailwind CSS, Gemini AI and Recharts.
 
@@ -39,26 +39,30 @@ Instead of simply displaying specifications, the application leverages **Google 
 
 ### Home Page
 
-![Uploading Screenshot (248).png…]()
+<img width="1366" height="768" alt="Screenshot (248)" src="https://github.com/user-attachments/assets/cb34b26b-17a9-403c-a1de-9f454144a10e" />
+
 
 
 ---
 
 ### Bike Analysis
 
-(Add screenshot here)
+<img width="1214" height="830" alt="image" src="https://github.com/user-attachments/assets/b95de9fe-3f8c-40a8-b0e1-43f2ad81c0e9" />
+
 
 ---
 
 ### AI Recommendation
 
-(Add screenshot here)
+<img width="1173" height="1085" alt="image" src="https://github.com/user-attachments/assets/6017a95b-2980-4b80-a54e-28a744881f76" />
+
 
 ---
 
 ### Charts Dashboard
 
-(Add screenshot here)
+<img width="1266" height="1498" alt="image" src="https://github.com/user-attachments/assets/d5b39288-7308-4aba-a2be-05cff493243b" />
+
 
 ---
 
