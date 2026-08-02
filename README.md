@@ -39,7 +39,8 @@ Instead of simply displaying specifications, the application leverages **Google 
 
 ### Home Page
 
-(Add screenshot here)
+![Uploading Screenshot (248).png…]()
+
 
 ---
 
