@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="Screenshot (248)" src="https://github.com/user-attachments/assets/4fb5919d-45cb-4115-95a9-7e07e8e06f2d" /># 🚲 EcoBike AI
+
 
 > AI-powered sustainable bike recommendation platform built using React, Tailwind CSS, Gemini AI and Recharts.
 
